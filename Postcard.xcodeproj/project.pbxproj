@@ -13,6 +13,8 @@
 		E225D78B1A3079AE00DECD76 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E225D78A1A3079AE00DECD76 /* Images.xcassets */; };
 		E225D78E1A3079AE00DECD76 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = E225D78C1A3079AE00DECD76 /* LaunchScreen.xib */; };
 		E225D79A1A3079AE00DECD76 /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E225D7991A3079AE00DECD76 /* PostcardTests.swift */; };
+		E225D7A41A3084F700DECD76 /* SagradaFamilia.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E225D7A31A3084F700DECD76 /* SagradaFamilia.jpeg */; };
+		E225D7A61A308DAD00DECD76 /* AlbertEinsteinStamp.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E225D7A51A308DAD00DECD76 /* AlbertEinsteinStamp.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		E225D7931A3079AE00DECD76 /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E225D7981A3079AE00DECD76 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E225D7991A3079AE00DECD76 /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		E225D7A31A3084F700DECD76 /* SagradaFamilia.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SagradaFamilia.jpeg; sourceTree = "<group>"; };
+		E225D7A51A308DAD00DECD76 /* AlbertEinsteinStamp.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AlbertEinsteinStamp.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		E225D7811A3079AE00DECD76 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				E225D7A51A308DAD00DECD76 /* AlbertEinsteinStamp.jpg */,
+				E225D7A31A3084F700DECD76 /* SagradaFamilia.jpeg */,
 				E225D7821A3079AE00DECD76 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -193,6 +199,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				E225D7891A3079AE00DECD76 /* Main.storyboard in Resources */,
+				E225D7A41A3084F700DECD76 /* SagradaFamilia.jpeg in Resources */,
+				E225D7A61A308DAD00DECD76 /* AlbertEinsteinStamp.jpg in Resources */,
 				E225D78E1A3079AE00DECD76 /* LaunchScreen.xib in Resources */,
 				E225D78B1A3079AE00DECD76 /* Images.xcassets in Resources */,
 			);
